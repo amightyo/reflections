@@ -20,4 +20,8 @@ It helps in managing the project flow. That way one avoids loosing updates or co
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-The result of merging two branches is based on an update rule which makes one branch merged into another. The log is based on their timestamp. Git show can be used to see the changes made on the different timestamp.  
+The result of merging two branches is based on an update rule which makes one branch merged into another. The log is based on their timestamp. Git show can be used to see the changes made on the different timestamp.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pros is that it informs you whenever there's a conflict. Automating this process makes it easier to merge based on certain rule case. There are no cons for automatic merging. Manually merging would be tedious.
