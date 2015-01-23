@@ -5,3 +5,15 @@ An empty Git repository is initialized with untracked files.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is more like the preparation zone where you can monitor the files ready for commit from the ones not ready for commit. THe files in the working directgory are untracked.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You use the git add to add one or more files based on a logical change to the staging area. Then you can use the git diff to compare the changes between the working directory and the staging area to ensure only the logical change is added. Then you can proceed to commit the changes.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It becomes helpful when an experimental version is implemented from a stable (master) version. It is very handy for updating new behavior to a project. This helps to easily monitor the history of the different branches. It reduces confusion and enforces clarity. Context switching.
+
+How do the diagrams help you visualize the branch structure?
+
+It helps in managing the project flow. That way one avoids loosing updates or commits from a checkout id. 
