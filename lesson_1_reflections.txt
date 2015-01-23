@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    By showing me the line locations where the bug was.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It affords me the opportunity of revisiting a base history should I need to redefine a new path. That way I don't have to have multiple saved files which could become confusing.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pros is that you can control the update that you which to commit. This makes it easier to manage the commit history. The cons would be that important updates are not committed at the right time.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Since some files in a repository are dependent on the others then if changes are made to these files any commit done should be on all the files. That way the latest snapshot has the current update on all files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I basically use git log to see the changes based on the different commit. The git log --stat helps to see the statistics which shows the number of insertion and deletion at a particular commit. The git diff based on two different commit id helps to see what was inserted and deleted between the two commits. Log shows you commits in a given repository.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    More confident because I can always checkout a previous commit to find the commit that introduced a bug. Then change the commit head to the version before the bug or revert back to the most resent head and fix the bug.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I would like to use Git for my research projects. Make it possible for collaboration with other research students.
