@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+An empty Git repository is initialized with untracked files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is more like the preparation zone where you can monitor the files ready for commit from the ones not ready for commit. THe files in the working directgory are untracked.
