@@ -16,4 +16,8 @@ It becomes helpful when an experimental version is implemented from a stable (ma
 
 How do the diagrams help you visualize the branch structure?
 
-It helps in managing the project flow. That way one avoids loosing updates or commits from a checkout id. 
+It helps in managing the project flow. That way one avoids loosing updates or commits from a checkout id.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches is based on an update rule which makes one branch merged into another. The log is based on their timestamp. Git show can be used to see the changes made on the different timestamp.  
