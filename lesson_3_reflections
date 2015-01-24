@@ -21,7 +21,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I sometimes use GoogleDoc or Dropbox. For collaborative research writing, I use WriteLaTeX which is now called Overleaf. Git/GitHub makes it easier to checkout various commits at any time. Conflicts are reduced and productivity is optimized using Git/GitHub.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
