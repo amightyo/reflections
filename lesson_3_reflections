@@ -11,7 +11,8 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Forks are clones of repo on GitHub, Clones are copies of the repo on a local directory, Branches are the levels of commit made on local repo.
+    Forks are clones of repo on GitHub, Clones are copies of the repo on a local directory, 
+    Branches are the levels of commit made on local repo.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
@@ -21,9 +22,13 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    I sometimes use GoogleDoc or Dropbox. For collaborative research writing, I use WriteLaTeX which is now called Overleaf. Git/GitHub makes it easier to checkout various commits at any time. Conflicts are reduced and productivity is optimized using Git/GitHub.
+    I sometimes use GoogleDoc or Dropbox. For collaborative research writing, I use WriteLaTeX 
+    which is now called Overleaf. Git/GitHub makes it easier to checkout various commits at any time. 
+    Conflicts are reduced and productivity is optimized using Git/GitHub.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    When I intend to perform some further testing or introduce a new idea which I want my collaborators to examine via pull requests before merging to master branch. It affords one to keep the original master branch intact until a final decision is made.
+    When I intend to perform some further testing or introduce a new idea which I want my collaborators 
+    to examine via pull requests before merging to master branch. It affords one to keep the original 
+    master branch intact until a final decision is made.
